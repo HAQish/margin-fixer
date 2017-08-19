@@ -1,0 +1,85 @@
+/*
+Might be easier in a different programming language, such as an .exe written in C++ or something that fixes the text and then copies it to the clipboard for the fixed document to be pasted into the webpage
+
+Additionally, it might be necessary to make an offline .exe version anyways for .txt files that are already on the computer
+
+Regardless, in broad terms, it must work as thus:
+
+The .txt must be opened and then saved in wordpad as a .rtf document - this can be done on both pc and mac, so compatibility shouldn't be an issue as far as I know if a home .exe version is being designed
+
+Once in the .rtf format, it is opened in notepad (meaning as a .txt file)
+
+The unnatural, "artificial" margins are here denoted with /par, not <br> - it is not typical html format - this does not deal with any .html webfiles, only .txt files - both on the computer and on the server, meaning the URL is www.example.com/text.txt if on the server
+
+The /par denotes a new paragraph, so it functions equivalently to the <br> - the problem is that the /par also denotes the manually inputted line breaks, meaning when the author himself pressed the enter key in order to create a new line or paragraph
+
+So, this is an example
+
+This is just sample text full of nonsense/par
+and is all filler but anywjssdjnsdjnsdsjdnjsd/par
+this is not even english enannmkmktkrmdfaf/par
+jdfb fnjnfjfn dnsjna adjfnajfnf free palestinejadnfjadnf/par
+ajdnsd and so that is the end of it.  This is the natural end./par
+
+The /par that comes at the natural end of the paragraph comes right after a period - because paragraphs must, naturally, end in certain punctuations - merely by consulting the format of English itself, we can determine what is going to end a legitimate paragraph.
+
+Presented in an array endLegitPar = [!, ?, ", ), .]
+
+They will most likely end in a period, because it marks the end of the declarative sentence at the end of the paragraph, but if it ends in speech of any kind, it will be a closing quotation.  It may also end in a parenthetical, in which case it will be a closing parenthesis.  An exclamation and a question mark can also end basic sentences depending on the context.  Outside of these five punctuation characters, it is extremely rare to see a legitimate paragraph end in anything else in English.
+
+In terms of the program itself, it must search for every legitimate paragraph end, meaning every instance of /par with one of the five correct characters before it.
+
+Once it finds those, it must convert the /par to a legitimate line break, via /n or <br> if it will be converted to an html, or something similar.
+
+Because those line breaks are the only legitimate line breaks, once those are all converted to something other than /par, the document can be completely purged of all of the other /par inputs because they are illegitimate.  That can be done with a find /par, replace with empty string command.
+
+What it can do is take every /par with the character to the left of it, and put it into a giant array of allPars = []
+
+Example allPars = [" /par", "n/par", "j/par", "y/par", " /par", "./par", ",/par", "(/par", "?/par"]
+
+So, the two arrays we are working with are endLegitPar and allPars.
+
+for (let i = 0; i < endLegitPar.length - 1; i++) {
+  for (let j = 0; i < allPars.length - 1; j++) {
+    if (allPars[j][0] = endLegitPar[i]) {
+      allPars[j] = allPars[j][0] + "<br><br>";
+    } else {
+    allPars[j] = allPars[j][0] + "";
+    }
+  }
+}
+
+The array of allPars must then be inserted into the text document - this might prove to be intensive
+
+A simpler way might be to simply use regEx to find all instances of !/par, ?/par, "/par, )/par, and ./par and replace /par (or the last 4 letters of the string/array if that makes it simpler) in every match with <br><br> or /n /n
+  And then to simply take any existing par and replace it with an empty string
+
+This might require setting the entire text body as a variable, which seems unconventional
+
+Once all of that is complete - meaning the legitimate /par inputs are converted to functional line breaks, and the illegitimate ones are purged from the document, it can then be opened as an html
+
+If a .txt file is still desired, then the .html file can be opened in a browser, where the result as presented in the browser (not the source) can be copied and pasted into the text file
+
+Ideally, this would be a greasemonkey extension for chrome/firefox to fix .txt files opened on the internet in real time, with the click of a button
+
+Or, on the computer side, a .txt file could have a new option on the context menu with right clicking that reads "fix margins", which opens the text of the .txt file into an .exe, fixes the text, and saves as a new .txt alongside the old one (it should not irrevocably overwrite the original .txt in case it ends up being malformed again)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*/
