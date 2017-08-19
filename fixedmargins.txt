@@ -1,0 +1,143 @@
+{rtf1ansiansicpg1252cocoartf1504cocoasubrtf830
+{fonttblf0fswissfcharset0 Helvetica;}
+{colortbl;red255green255blue255;}
+{*expandedcolortbl;;}
+margl1440margr1440vieww17760viewh12520viewkind0
+pardtx720tx1440tx2160tx2880tx3600tx4320tx5040tx5760tx6480tx7200tx7920tx8640pardirnaturalpartightenfactor0
+
+f0fs24 cf0 from {field{*fldinst{HYPERLINK "http://www.gutenberg.org/cache/epub/10615/pg10615.txt"}}{fldrslt http://www.gutenberg.org/cache/epub/10615/pg10615.txt}}
+
+pardtx720tx1440tx2160tx2880tx3600tx4320tx5040tx5760tx6480tx7200tx7920tx8640pardirnaturalpartightenfactor0
+cf0 THE EPISTLE TO THE READER
+
+READER,
+
+I have put into thy hands what has been the diversion of some of my idle
+and heavy hours. If it has the good luck to prove so of any of thine,
+and thou hast but half so much pleasure in reading as I had in writing
+it, thou wilt as little think thy money, as I do my pains, ill bestowed.<br><br>
+Mistake not this for a commendation of my work; nor conclude, because I
+was pleased with the doing of it, that therefore I am fondly taken with
+it now it is done. He that hawks at larks and sparrows has no less
+sport, though a much less considerable quarry, than he that flies at
+nobler game: and he is little acquainted with the subject of this
+treatise--the UNDERSTANDING--who does not know that, as it is the most
+elevated faculty of the soul, so it is employed with a greater and more
+constant delight than any of the other. Its searches after truth are a
+sort of hawking and hunting, wherein the very pursuit makes a great
+part of the pleasure. Every step the mind takes in its progress towards
+Knowledge makes some discovery, which is not only new, but the best too,
+for the time at least.<br><br>
+
+For the understanding, like the eye, judging of objects only by its own
+sight, cannot but be pleased with what it discovers, having less regret
+for what has escaped it, because it is unknown. Thus he who has raised
+himself above the alms-basket, and, not content to live lazily on scraps
+of begged opinions, sets his own thoughts on work, to find and follow
+truth, will (whatever he lights on) not miss the hunter's satisfaction;
+every moment of his pursuit will reward his pains with some delight; and
+he will have reason to think his time not ill spent, even when he cannot
+much boast of any great acquisition.<br><br>
+
+This, Reader, is the entertainment of those who let loose their own
+thoughts, and follow them in writing; which thou oughtest not to envy
+them, since they afford thee an opportunity of the like diversion, if
+thou wilt make use of thy own thoughts in reading. It is to them, if
+they are thy own, that I refer myself: but if they are taken upon trust
+from others, it is no great matter what they are; they are not following
+truth, but some meaner consideration; and it is not worth while to be
+concerned what he says or thinks, who says or thinks only as he is
+directed by another. If thou judgest for thyself I know thou wilt judge
+candidly, and then I shall not be harmed or offended, whatever be thy
+censure. For though it be certain that there is nothing in this Treatise
+of the truth whereof I am not fully persuaded, yet I consider myself as
+liable to mistakes as I can think thee, and know that this book must
+stand or fall with thee, not by any opinion I have of it, but thy own.<br><br>
+If thou findest little in it new or instructive to thee, thou art not to
+blame me for it. It was not meant for those that had already mastered
+this subject, and made a thorough acquaintance with their own
+understandings; but for my own information, and the satisfaction of
+a few friends, who acknowledged themselves not to have sufficiently
+considered it.<br><br>
+
+Were it fit to trouble thee with the history of this Essay, I should
+tell thee, that five or six friends meeting at my chamber, and
+discoursing on a subject very remote from this, found themselves quickly
+at a stand, by the difficulties that rose on every side. After we had
+awhile puzzled ourselves, without coming any nearer a resolution of
+those doubts which perplexed us, it came into my thoughts that we took
+a wrong course; and that before we set ourselves upon inquiries of that
+nature, it was necessary to examine our own abilities, and see what
+OBJECTS our understandings were, or were not, fitted to deal with. This
+I proposed to the company, who all readily assented; and thereupon
+it was agreed that this should be our first inquiry. Some hasty and
+undigested thoughts, on a subject I had never before considered, which
+I set down against our next meeting, gave the first entrance into this
+Discourse; which having been thus begun by chance, was continued by
+intreaty; written by incoherent parcels; and after long intervals of
+neglect, resumed again, as my humour or occasions permitted; and at
+last, in a retirement where an attendance on my health gave me leisure,
+it was brought into that order thou now seest it.<br><br>
+
+This discontinued way of writing may have occasioned, besides others,
+two contrary faults, viz., that too little and too much may be said in
+it. If thou findest anything wanting, I shall be glad that what I have
+written gives thee any desire that I should have gone further. If it
+seems too much to thee, thou must blame the subject; for when I put pen
+to paper, I thought all I should have to say on this matter would have
+been contained in one sheet of paper; but the further I went the
+larger prospect I had; new discoveries led me still on, and so it grew
+insensibly to the bulk it now appears in. I will not deny, but possibly
+it might be reduced to a narrower compass than it is, and that some
+parts of it might be contracted, the way it has been writ in, by
+catches, and many long intervals of interruption, being apt to cause
+some repetitions. But to confess the truth, I am now too lazy, or too
+busy, to make it shorter. I am not ignorant how little I herein consult
+my own reputation, when I knowingly let it go with a fault, so apt to
+disgust the most judicious, who are always the nicest readers. But they
+who know sloth is apt to content itself with any excuse, will pardon me
+if mine has prevailed on me, where I think I have a very good one. I
+will not therefore allege in my defence, that the same notion, having
+different respects, may be convenient or necessary to prove or
+illustrate several parts of the same discourse, and that so it has
+happened in many parts of this: but waiving that, I shall frankly avow
+that I have sometimes dwelt long upon the same argument, and expressed
+it different ways, with a quite different design. I pretend not to
+publish this Essay for the information of men of large thoughts and
+quick apprehensions; to such masters of knowledge I profess myself a
+scholar, and therefore warn them beforehand not to expect anything here,
+but what, being spun out of my own coarse thoughts, is fitted to men of
+my own size, to whom, perhaps, it will not be unacceptable that I have
+taken some pains to make plain and familiar to their thoughts some
+truths which established prejudice, or the abstractedness of the ideas
+themselves, might render difficult. Some objects had need be turned on
+every side; and when the notion is new, as I confess some of these are
+to me; or out of the ordinary road, as I suspect they will appear to
+others, it is not one simple view of it that will gain it admittance
+into every understanding, or fix it there with a clear and lasting
+impression. There are few, I believe, who have not observed in
+themselves or others, that what in one way of proposing was very
+obscure, another way of expressing it has made very clear and
+intelligible; though afterwards the mind found little difference in the
+phrases, and wondered why one failed to be understood more than the
+other. But everything does not hit alike upon every man's imagination.<br><br>
+We have our understandings no less different than our palates; and he
+that thinks the same truth shall be equally relished by every one in the
+same dress, may as well hope to feast every one with the same sort of
+cookery: the meat may be the same, and the nourishment good, yet every
+one not be able to receive it with that seasoning; and it must be
+dressed another way, if you will have it go down with some, even of
+strong constitutions. The truth is, those who advised me to publish it,
+advised me, for this reason, to publish it as it is: and since I have
+been brought to let it go abroad, I desire it should be understood by
+whoever gives himself the pains to read it. I have so little affection
+to be in print, that if I were not flattered this Essay might be of some
+use to others, as I think it has been to me, I should have confined
+it to the view of some friends, who gave the first occasion to it. My
+appearing therefore in print being on purpose to be as useful as I may,
+I think it necessary to make what I have to say as easy and intelligible
+to all sorts of readers as I can. And I had much rather the speculative
+and quick-sighted should complain of my being in some parts tedious,
+than that any one, not accustomed to abstract speculations, or
+prepossessed with different notions, should mistake or not comprehend my
+meaning.}
