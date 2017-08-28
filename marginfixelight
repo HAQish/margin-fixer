@@ -1,0 +1,25 @@
+// ==UserScript==
+// @name         marginfixerlight
+// @namespace    http://tampermonkey.net/
+// @version      0.1
+// @description  light margin fixer
+// @author       You
+// @match        http://*/*.txt
+// @grant        none
+// ==/UserScript==
+
+
+
+// constants
+const LINEBREAK = "\n";
+const LINEBREAK2X = LINEBREAK + LINEBREAK;
+const EL = "pre";
+
+function fixMargins(body) {
+  const arrayOfParagraphs = body.split(LINEBREAK2X);
+  const arrayOfFixedParagraphs = arrayOfParagraphs.map(el => el.split(LINEBREAK).join(" "));
+  return arrayOfFixedParagraphs.join(LINEBREAK2X);
+}
+
+const oldText = document.querySelector(EL).innerText;
+document.querySelector(EL).innerText = fixMargins(oldText);
